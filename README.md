@@ -150,6 +150,7 @@ development using HTML, CSS and JavaScript code snippets.
 
 * [_HTML Reference_](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
+
 ### IDEs
 
 * [_PyCharm Community Edition_](https://www.jetbrains.com/pycharm/) A great free IDE, has most of the features you'll 
@@ -249,6 +250,8 @@ https://www.notion.so/4f0d76b4b6b54c88a4c99d665018bb66?v=a4f27ffcbe0a4776b796eed
 * [_Ultimate Python study guide_](https://github.com/huangsam/ultimate-python) Ultimate Python study guide for 
 newcomers and professionals alike. 
 
+* [ Python Programming Language ] https://www.geeksforgeeks.org/python-programming-language/?ref=shm
+
 ### Style Guides
 
 * [_PEP 8 -- Style Guide for Python Code_](https://pep8.org/) This document gives coding conventions for the Python 
@@ -311,7 +314,11 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 
 * [_Python Programming for Network Engineers_](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPn7T9FtvbOWX8GxgsFFNwn) A Youtube course on Python programming/automation for network engineers.
 
- 
+* [ Learn Python Full Course for Beginners] https://www.youtube.com/watch?v=rfscVS0vtbw
+
+* [ Data Analaysis with Python ] https://www.youtube.com/watch?v=r-uOLxNrNk8
+
+
 ### Other Resources
 
 * [_Pixabay_](https://pixabay.com/) Over 1 million+ high quality stock images and videos shared by our talented 
